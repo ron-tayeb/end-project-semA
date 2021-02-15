@@ -1,0 +1,107 @@
+
+.Recipes {
+    min-height: 100vh !important;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.search-form {
+    background-color: rgba(136, 136, 136, 0.253);
+    margin-top: 0%;
+    padding: 10px;
+    min-height: 10vh !important;
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
+    border-radius: 0.5rem;
+
+    width: 100%;
+}
+
+.search-button {
+    background-color: rgb(214, 255, 196) ;
+    border-radius: 0.5rem !important;
+    color: black !important;
+}
+
+.search-bar {
+    border-radius: 0.5rem;
+    
+    width: 100%!important;
+    border: none!important;
+    padding: 10px!important;
+}
+
+.recipes1 {
+    display: flex !important;
+    justify-content: space-around !important;
+    flex-wrap: wrap !important;
+    margin-right: -20%;
+    margin-left:  -20%;
+    
+}
+
+.nav {
+    background: rgb(214, 255, 196) ;  
+    height: 60px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5) !important;
+     
+
+}
+
+.footer {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5) !important;
+    background-color: rgb(214, 255, 196);
+    position: relative;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin-top: auto;
+}
+.fotercolor{
+    color:black
+}
+.copyritght{
+    color:black
+}
+
+.logo {
+    height: 67px;
+}
+
+.section {
+    background-image: url('../img/backround.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.login{
+    position: relative;
+}
+.jumb{
+    height: 250px;
+}
+
+.modal1{
+    text-align: right !important;
+}
+
+.navB{
+    color: rgba(12, 11, 11, 0.616);
+}
+.navB  :hover{
+    color: rgb(0, 0, 0) !important ;
+}
+.navImportent{
+    color: rgba(12, 11, 11, 0.616) 
+
+}
+
+.navImportent:hover{
+    color: rgb(0, 0, 0) ;
+}
+
+
+
+  
+  

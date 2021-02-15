@@ -1,0 +1,118 @@
+.card {
+  width: 20rem;
+  margin: 3rem;
+  background-color: rgb(255, 255, 255);
+  padding: 2rem;
+  border-radius: 1.5rem !important;
+  box-shadow: 2rem 3rem 5rem rgb(255, 255, 255);
+  font-size: small;
+}
+
+.img {
+  border-radius: 0.5rem;
+  object-fit: cover;
+}
+
+.ingredients {
+  margin-top: 1rem;
+  background-color: #f0f0f0;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+
+.cards {
+  padding: 15px;
+  width: 100%;
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+
+.card1 {
+  margin-left: 25% !important;
+}
+
+.ron {
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+
+.alert {
+  margin-top: 20px;
+}
+
+.alert-danger {
+  margin-top: -0% !important;
+  border-radius: 0.5rem !important;
+  box-shadow: 2rem 3rem 5rem rgba(155, 107, 107, 0.562) !important;
+  display: none;
+}
+
+#overlay-example {
+background-color: rgba(rgba(112, 109, 109, 0), green, blue, alpha);
+}
+
+.cosher {
+  height: 80px !important;
+  width: 80px !important;
+}
+
+
+
+.btnt{
+  position: relative;
+  display: inline-block;
+  padding: 12px 30px;
+  margin:  10px 0px ;
+  color: black;
+  border: rgba(255, 254, 254, 0.5);
+  font-size: 13px;
+  font-family: cursive;
+  letter-spacing: 2px;
+  box-shadow: 2px 2px 4px rgba(128, 125, 125, 0.5) !important;
+  border-radius: 10px;
+  background-color: rgb(214, 255, 196) ;
+}
+
+.btnt:hover{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5) !important;
+}
+
+
+.theme{
+  display: flex !important;
+  flex-wrap: wrap;
+  height: 230px;
+  width: 350px;
+  margin-top:25px;
+  
+}
+.theme:hover{
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5) !important;
+}
+
+.rrr{
+  display: block;
+  border-radius: 5px;
+  box-shadow:  0 0 12px 2px rgba(0, 0, 0, .1);
+  transition: 1s;
+}
+
+.rrr:hover{
+  transform: scale(1.3);
+  z-index: 2;
+}
+
+.aboutP{
+  margin-left: 20%;
+  margin-right: 20%;
+text-align: right;
+}
+
+.aboutP1{
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}
+
+
+
